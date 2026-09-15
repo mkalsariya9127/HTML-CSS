@@ -4,6 +4,11 @@ A hands-on practice repository demonstrating core and modern CSS techniques incl
 
 ---
 
+## 🚀 Live Demo & Preview
+👉 **[View Live Practice UI on GitHub Pages](https://mkalsariya9127.github.io/HTML-CSS/)**
+
+---
+
 ## ✨ What's Covered
 - **CSS Flexbox:** Alignment, justify content, direction, and flexible wrapping.
 - **CSS Grid:** Multi-column responsive grids and template areas.
@@ -18,7 +23,7 @@ A hands-on practice repository demonstrating core and modern CSS techniques incl
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started Locally
 ```bash
 git clone https://github.com/mkalsariya9127/HTML-CSS.git
 ```
